@@ -1,10 +1,4 @@
 '''
-#Group: 1911035, 1913651
-
-
-#Group Name 🙂 : Me&Marc_Rutzou
-
-
 We tried just a greedy search initially which wighted the board based off a similar heuristic to the one in update_weights,
 however, after implimenting a minimax search, we found minimax to outpreform a greedy search appraoch.
 
