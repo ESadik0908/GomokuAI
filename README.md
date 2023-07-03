@@ -1,2 +1,4 @@
 # GomokuAI
- A minimax algorithm to play the game of gomoku
+ A minimax algorithm to play the game of Gomoku.
+
+This was made as part of my AI module for my 3rd year of university alongside one of my classmates. The assignment required us to code a Gomoku AI that would receive a Gomoku board with tiles placed on it and return an x, y coordinate for the move we want to play. As the game controller code was written by the university I am unable to distribute it so the code provided is just the AI that we produced. As we were required to make a move within 5 seconds of receiving the board we were not able to explore the minimax algorithm with a larger depth or breadth. The AI were then put against each other in a round Robin tournament and out of ~30 teams our AI came joint 7th with the top 10 teams only being separated by about 10 points (2 points for a win, 1 point for a draw).
